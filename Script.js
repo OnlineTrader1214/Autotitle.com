@@ -1,5 +1,5 @@
 // Configuration - Replace with your Cloudinary details
-const CLOUD_NAME = 'YOUR_CLOUD_NAME'; // From Cloudinary dashboard
+const CLOUD_NAME = 'dqyfijrbh'; // From Cloudinary dashboard
 const UPLOAD_PRESET = 'YOUR_UPLOAD_PRESET'; // Create in Cloudinary settings
 
 // DOM Elements
