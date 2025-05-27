@@ -1,6 +1,6 @@
 // Configuration - Replace with your Cloudinary details
 const CLOUD_NAME = 'dqyfijrbh'; // From Cloudinary dashboard
-const UPLOAD_PRESET = 'YOUR_UPLOAD_PRESET'; // Create in Cloudinary settings
+const UPLOAD_PRESET = 'Imgsupload'; // Create in Cloudinary settings
 
 // DOM Elements
 const fileInput = document.getElementById('file-input');
