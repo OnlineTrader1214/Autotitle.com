@@ -87,7 +87,7 @@ async function processFile(file, currentIndex, totalFiles) {
         // Get AI tags
         const tagsResponse = await fetch(
             `https://api.cloudinary.com/v1_1/${CLOUD_NAME}/image/tags?public_id=${uploadData.public_id}`,
-            { headers: { 'Authorization': `Basic ${btoa('YOUR_API_KEY:')}` } }
+            { headers: { 'Authorization': `Basic ${btoa('433986273773748:')}` } }
         );
         
         const tagsData = await tagsResponse.json();
